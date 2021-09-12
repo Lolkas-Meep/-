@@ -15,3 +15,7 @@ needless to say, the experiment was cut short, because kopamed stepped in and bu
 in the end of the day, again, this data wouldnt've been used to do anything, really, and was just kind of existing there as a counter + proof of the entire thing.
 
 tldr 2: experiment failed, people got mad because kopamed told them to, had to delete basically the entire project to make it stop
+
+
+
+im gonna take a break from this entire thing
